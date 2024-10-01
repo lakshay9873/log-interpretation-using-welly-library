@@ -1,4 +1,4 @@
-##Simple Well Log Project using Welly##
+#Simple Well Log Project using Welly#
 This project provides a basic demonstration of handling well log data using the Welly library. It allows for reading, visualizing, and analyzing well log data efficiently.
 
 #Features:#
